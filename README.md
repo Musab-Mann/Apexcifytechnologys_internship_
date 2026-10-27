@@ -1,44 +1,56 @@
-# Apexify Technologies — Internship Projects
+# C++ Internship Practice Projects
 
-This repository contains C++ projects associated with my internship learning and practice, with an emphasis on programming fundamentals, object-oriented programming, data structures, and problem solving.
+This repository contains two C++ practice projects created during my internship learning: a Banking Application and a CGPA Calculator.
 
-## Projects
+## 📌 Projects
 
 ### 1. Banking Application
+A practice application focused on account-related operations and structured data handling.
 
-A C++ banking-management practice project focused on account-related operations and structured data handling.
-
-**Concepts practiced**
-- C++ programming
+**Concepts explored**
+- C++ fundamentals and program logic
 - Object-oriented programming
-- Data handling and program logic
+- Input handling and data management
 
 ### 2. CGPA Calculator
+A calculator for working with course credit hours, grade points, and CGPA calculations.
 
-A C++ calculator project for working with course credit hours, grade points, and CGPA calculations.
+**Concepts explored**
+- C++ fundamentals
+- Arithmetic and input validation
+- Structured data and calculations
 
-**Concepts practiced**
-- C++ programming
-- Input handling and calculations
-- Object-oriented programming and data structures
+## 📁 Current Repository Contents
 
-## Files
+The repository currently contains compiled Windows executable files:
 
-The repository currently includes compiled Windows executable demos:
+- `intership 1.exe`
+- `internship 2.exe`
 
-- intership 1.exe
-- internship 2.exe
+**Important:** The original C++ source files (`.cpp`) are not currently included. Executables are platform-specific and do not allow reviewers to inspect the implementation. To make this portfolio repository complete, add the original source files and update the project descriptions to match the actual code.
 
-Executable files are platform-specific and may be flagged by security software. Run only files you trust. For a stronger and more transparent portfolio, add the corresponding source code (for example, .cpp files) and explain how to compile each project.
+## ▶️ Running the Executables
 
-## How to use
+These files are intended for Windows and may not run on other operating systems.
 
-1. Open the repository's Code menu and download the repository, or download an individual executable from the file list.
-2. If you choose to run an executable, scan it first and use appropriate caution.
-3. Source code and build instructions should be added to this repository so others can inspect, compile, and learn from the projects.
+1. Download an executable only if you trust its origin.
+2. Scan it with security software before running it.
+3. Run it in a suitable Windows environment.
 
-## Author
+For a more transparent and reproducible project, prefer compiling the source code yourself once the `.cpp` files are added. Do not run unknown executables on a machine containing sensitive information.
+
+## 🛠️ Recommended Next Steps
+
+- Add the original `.cpp` source code for both projects
+- Add a short description of each program's menu and functionality
+- Include screenshots or sample console output
+- Add compiler requirements and verified build commands
+- Test input validation and calculation edge cases
+
+## 👤 Author
 
 **Musab Hafeez Mann**
 
-[GitHub profile](https://github.com/Musab-Mann)
+- [GitHub Profile](https://github.com/Musab-Mann)
+- [All Repositories](https://github.com/Musab-Mann?tab=repositories)
+- [Savora Restaurant — Live Demo](https://musab-mann.github.io/Savora-Restaurant/)
