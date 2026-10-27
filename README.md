@@ -1,28 +1,44 @@
-Apexify Technologies Internship Projects
-📌 Overview
-This repository contains projects developed during my internship at Apexify Technologies, with a focus on C++ programming, Object-Oriented Programming, and Data Structures.
-🚀 Projects
-1. Banking Application
-A C++ based banking application developed to practice programming concepts and data structure implementation.
-Key Concepts:
-C++
-Data Structures
-Problem Solving
-Programming Logic
-2. CGPA Calculator
-A C++ based CGPA Calculator developed using Object-Oriented Programming concepts and Data Structures.
-Key Concepts:
-C++
-Object-Oriented Programming (OOP)
-Data Structures
-Computational Logic
-🛠️ Technologies & Concepts
-Language: C++
-Object-Oriented Programming (OOP)
-Data Structures
-Problem Solving
-🎯 Internship Learning
-These projects helped me strengthen my understanding of C++ programming, OOP, data structures, and practical software development.
-👨‍💻 Author
-Musab Hafeez Mann
-Computer Science Student | C++ | OOP | Data Structures | Software Development
+# Apexify Technologies — Internship Projects
+
+This repository contains C++ projects associated with my internship learning and practice, with an emphasis on programming fundamentals, object-oriented programming, data structures, and problem solving.
+
+## Projects
+
+### 1. Banking Application
+
+A C++ banking-management practice project focused on account-related operations and structured data handling.
+
+**Concepts practiced**
+- C++ programming
+- Object-oriented programming
+- Data handling and program logic
+
+### 2. CGPA Calculator
+
+A C++ calculator project for working with course credit hours, grade points, and CGPA calculations.
+
+**Concepts practiced**
+- C++ programming
+- Input handling and calculations
+- Object-oriented programming and data structures
+
+## Files
+
+The repository currently includes compiled Windows executable demos:
+
+- intership 1.exe
+- internship 2.exe
+
+Executable files are platform-specific and may be flagged by security software. Run only files you trust. For a stronger and more transparent portfolio, add the corresponding source code (for example, .cpp files) and explain how to compile each project.
+
+## How to use
+
+1. Open the repository's Code menu and download the repository, or download an individual executable from the file list.
+2. If you choose to run an executable, scan it first and use appropriate caution.
+3. Source code and build instructions should be added to this repository so others can inspect, compile, and learn from the projects.
+
+## Author
+
+**Musab Hafeez Mann**
+
+[GitHub profile](https://github.com/Musab-Mann)
